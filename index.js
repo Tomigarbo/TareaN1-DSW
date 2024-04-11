@@ -24,3 +24,5 @@ btnReset.addEventListener("click", function () {
 let final = 0;
 
 let conflict1 = false;
+
+let = variable1;
