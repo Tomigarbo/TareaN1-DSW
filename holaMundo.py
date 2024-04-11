@@ -1,5 +1,5 @@
 print("Hola mundo")
 
-var1 = 5
+var1 = 234
 
 print(var1)
