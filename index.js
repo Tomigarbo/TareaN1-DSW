@@ -22,3 +22,5 @@ btnReset.addEventListener("click", function () {
 });
 
 let final = 0;
+
+const hayErrores = true;
