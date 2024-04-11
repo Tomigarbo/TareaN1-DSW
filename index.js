@@ -24,3 +24,5 @@ btnReset.addEventListener("click", function () {
 let final = 200;
 let variable2 = false;
 
+
+const hayErrores = true;
