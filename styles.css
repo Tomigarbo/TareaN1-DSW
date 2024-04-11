@@ -1,0 +1,39 @@
+#titulo {
+    color:blue;
+    font-weight:bold;
+    font-size: 6rem;
+}
+
+#flag {
+    width: 366px;
+    height: 240px;
+}
+
+#tabla {
+    width: 366px;
+    height: 240px;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#btnGolArg {
+    width: 366px;
+    height: 60px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#btnGolFra {
+    width: 366px;
+    height: 60px;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#btnReset {
+    width:  80px;
+    height: 80px;
+    font-size: 3rem;
+    font-weight:bolder;
+}
+
