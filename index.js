@@ -21,4 +21,6 @@ btnReset.addEventListener("click", function () {
     document.getElementById("sumadorFra").innerText = 0
 });
 
-let final = 0;
+let final = 200;
+let variable2 = false;
+
