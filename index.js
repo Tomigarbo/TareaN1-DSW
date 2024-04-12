@@ -22,6 +22,6 @@ btnReset.addEventListener("click", function () {
 });
 
 
+
 let variable = 200;
 let variable2 = false;
-
